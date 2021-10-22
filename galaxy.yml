@@ -1,0 +1,17 @@
+namespace: betteruptime
+name: betteruptime
+version: 1.0.0
+readme: README.md
+authors:
+- Yorick Gruijthuijzen <yorick@gruijthuijzen.nl>
+description: This collection communicates with the Betteruptime RestAPI.
+license:
+- GPL-3.0-or-later
+license_file: ''
+tags: ['betteruptime', 'better', 'uptime', 'restapi', 'api']
+dependencies: {}
+repository: https://github.com/yorick1989/betteruptime
+documentation: https://github.com/yorick1989/betteruptime/blob/dev/README.md
+homepage: https://github.com/yorick1989/betteruptime
+issues: https://github.com/yorick1989/betteruptime/issues
+build_ignore: []
